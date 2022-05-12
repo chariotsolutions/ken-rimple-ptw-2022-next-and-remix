@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:172286536/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:172286536/sounds.rss?before=222274081" rel="next" type="application/rss+xml"/>
+        <title>The New Stack @ Scale</title>
+        <link>http://thenewstack.io</link>
+        <pubDate>Fri, 21 May 2021 18:52:12 +0000</pubDate>
+        <lastBuildDate>Fri, 21 May 2021 18:52:12 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>The New Stack @ Scale podcast is about developing and managing elastic and dynamic services and systems.</description>
+        <itunes:subtitle>The New Stack @ Scale podcast is about developing…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>The New Stack @ Scale</itunes:name>
+          <itunes:email>info@thenewstack.io</itunes:email>
+        </itunes:owner>
+        <itunes:author>The New Stack</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000171923089-6ziel6-original.png"/>
+        <image>
+          <url>https://i1.sndcdn.com/avatars-000171923089-6ziel6-original.png</url>
+          <title>The New Stack @ Scale</title>
+          <link>http://thenewstack.io</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/621693078</guid>
+      <title>Can an Open Source Foundation Fix Continuous Delivery Pipelines?</title>
+      <pubDate>Thu, 16 May 2019 18:56:20 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/can-an-open-source-foundation-fix-continuous-delivery-pipelines</link>
+      <itunes:duration>00:26:42</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The choice of cloud native development tools and platform options have grown exponentially during the past couple of years. But with such a wide range of choices comes uncertainty, and sadly, confusion in many cases when deciding which option represents the best fit for software production pipelines.
+
+Chris Aniszczyk, CTO of the Cloud Native Computing Foundation (CNCF) and vice president of developer relations at the  Linux Foundation,  recently described the state of affairs in the cloud native landscape where there are “at least 20 to 30 tools out there, and it’s constantly growing, with a mix of startups and cloud providers,  as “an opportune time amongst vendors and users to bring sanity to this space.”
+
+Much of this much-needed “sanity” involves the availability of common standards for continuous delivery (CD). To this end, the Continuous Delivery Foundation (CDF) was created to foster collaboration for deployments using Jenkins, Jenkins X, Spinnaker and Tekton.
+
+During this podcast episode of The New Stack @ Scale series, Alex Williams, founder and editor-in-chief of The New Stack, discussed CDF’s mission and what the development community can expect.
+
+The podcast discussions recorded at the Open Source Leadership Summit also covered hopes, as well as concerns, about what such a foundation might represent. Other speakers, in addition to Aniszczyk, included:
+
+Matt Klein, a software engineer at Lyft and creator of the Envoy Proxy;
+Kit Merker, vice president of business development, at JFrog;
+Dan Lorenc, a software engineer on Google’s Cloud Platform;
+Kim (Vogt) Lewandowski, a Google product manager.</itunes:summary>
+      <itunes:subtitle>The choice of cloud native development tools and …</itunes:subtitle>
+      <description>The choice of cloud native development tools and platform options have grown exponentially during the past couple of years. But with such a wide range of choices comes uncertainty, and sadly, confusion in many cases when deciding which option represents the best fit for software production pipelines.
+
+Chris Aniszczyk, CTO of the Cloud Native Computing Foundation (CNCF) and vice president of developer relations at the  Linux Foundation,  recently described the state of affairs in the cloud native landscape where there are “at least 20 to 30 tools out there, and it’s constantly growing, with a mix of startups and cloud providers,  as “an opportune time amongst vendors and users to bring sanity to this space.”
+
+Much of this much-needed “sanity” involves the availability of common standards for continuous delivery (CD). To this end, the Continuous Delivery Foundation (CDF) was created to foster collaboration for deployments using Jenkins, Jenkins X, Spinnaker and Tekton.
+
+During this podcast episode of The New Stack @ Scale series, Alex Williams, founder and editor-in-chief of The New Stack, discussed CDF’s mission and what the development community can expect.
+
+The podcast discussions recorded at the Open Source Leadership Summit also covered hopes, as well as concerns, about what such a foundation might represent. Other speakers, in addition to Aniszczyk, included:
+
+Matt Klein, a software engineer at Lyft and creator of the Envoy Proxy;
+Kit Merker, vice president of business development, at JFrog;
+Dan Lorenc, a software engineer on Google’s Cloud Platform;
+Kim (Vogt) Lewandowski, a Google product manager.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/621693078-thenewstackatscale-can-an-open-source-foundation-fix-continuous-delivery-pipelines.mp3" length="25673028"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000171923089-6ziel6-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/607449741</guid>
+      <title>‘Fork and Commoditize’ — GitLab CEO on the Threat of the Hyper-Clouds</title>
+      <pubDate>Wed, 17 Apr 2019 18:01:02 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/gitlab-ceo-critiques-new-open-source-approach</link>
+      <itunes:duration>00:14:05</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>GitLab exemplifies, in many ways, what is possible in the open source world. Created from scratch with the goal of solving a problem — in this case, how to offer developers a collaborative software platform; GitLab exemplifies the mind and spirit of the open source community.
+
+But in the fast-changing world of software development and as tech giants Google, Amazon and Microsoft seek to redefine how software is made and distributed with unparalleled capital resources, open source enterprises face many challenges and threats — some of which border on the existential for many projects.
+
+During this first podcast episode in the relaunched The New Stack @ Scale series, hosted by Alex Williams, founder and editor-in-chief of The New Stack and recorded during the Open Source Leadership Summit; Sid Sijbrandij, co-founder and CEO, of GitLab, discussed the state of development open source development today. He also discussed emerging threats, such as those posed by the hypercloud model and what many say is the menace of what Sijbrandij describes as Amazon AWS’s “fork and commoditize” strategy.</itunes:summary>
+      <itunes:subtitle>GitLab exemplifies, in many ways, what is possibl…</itunes:subtitle>
+      <description>GitLab exemplifies, in many ways, what is possible in the open source world. Created from scratch with the goal of solving a problem — in this case, how to offer developers a collaborative software platform; GitLab exemplifies the mind and spirit of the open source community.
+
+But in the fast-changing world of software development and as tech giants Google, Amazon and Microsoft seek to redefine how software is made and distributed with unparalleled capital resources, open source enterprises face many challenges and threats — some of which border on the existential for many projects.
+
+During this first podcast episode in the relaunched The New Stack @ Scale series, hosted by Alex Williams, founder and editor-in-chief of The New Stack and recorded during the Open Source Leadership Summit; Sid Sijbrandij, co-founder and CEO, of GitLab, discussed the state of development open source development today. He also discussed emerging threats, such as those posed by the hypercloud model and what many say is the menace of what Sijbrandij describes as Amazon AWS’s “fork and commoditize” strategy.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/607449741-thenewstackatscale-gitlab-ceo-critiques-new-open-source-approach.mp3" length="13618323"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-000171923089-6ziel6-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/280436248</guid>
+      <title>Show 12: Has the Go Language Become Cloud Native?</title>
+      <pubDate>Tue, 06 Sep 2016 12:12:51 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/show-12-has-the-go-language-become-cloud-native</link>
+      <itunes:duration>00:31:09</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this episode of The New Stack at Scale, we explore the ways in which today’s developers must think when working in the cloud, the differences in static and dynamic programming languages, and how Go has found its niche in today’s container-based infrastructures. 
+
+The New Stack’s Scott Fulton and co-host Fredric Paul, Editor in Chief at New Relic sat down with New Relic Product Manager Victor Soares, New Relic Product Marketing Manager Neha Duggal, Red Hat Principal Software Engineer Vincent Batts, and New Relic Lead Software Engineer Chris Haupt to get their thoughts.</itunes:summary>
+      <itunes:subtitle>In this episode of The New Stack at Scale, we exp…</itunes:subtitle>
+      <description>In this episode of The New Stack at Scale, we explore the ways in which today’s developers must think when working in the cloud, the differences in static and dynamic programming languages, and how Go has found its niche in today’s container-based infrastructures. 
+
+The New Stack’s Scott Fulton and co-host Fredric Paul, Editor in Chief at New Relic sat down with New Relic Product Manager Victor Soares, New Relic Product Marketing Manager Neha Duggal, Red Hat Principal Software Engineer Vincent Batts, and New Relic Lead Software Engineer Chris Haupt to get their thoughts.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/280436248-thenewstackatscale-show-12-has-the-go-language-become-cloud-native.mp3" length="22429887"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000180822490-tmbyws-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/275371360</guid>
+      <title>Show 11: Implementing Best Practices for Agility at Scale</title>
+      <pubDate>Thu, 28 Jul 2016 13:06:46 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/show-11-agility-at-scale</link>
+      <itunes:duration>00:35:53</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this episode of The New Stack at Scale embedded below, we explore how HyperDev is lowering the barriers to building scalable applications, why Rocana prioritizes showing enterprises how to build a better infrastructure, balancing agility across distributed teams, and how today’s developers and operations teams are using agile practices to meet the needs of today’s high-scale applications. The New Stack Founder Alex Williams and co-host New Relic Editor-in-Chief Fredric Paul sat down with Rocana CTO Eric Sammer and HyperDev Lead at Fog Creek software Daniel X. Moore for an in-depth discussion on these topics and more.</itunes:summary>
+      <itunes:subtitle>In this episode of The New Stack at Scale embedde…</itunes:subtitle>
+      <description>In this episode of The New Stack at Scale embedded below, we explore how HyperDev is lowering the barriers to building scalable applications, why Rocana prioritizes showing enterprises how to build a better infrastructure, balancing agility across distributed teams, and how today’s developers and operations teams are using agile practices to meet the needs of today’s high-scale applications. The New Stack Founder Alex Williams and co-host New Relic Editor-in-Chief Fredric Paul sat down with Rocana CTO Eric Sammer and HyperDev Lead at Fog Creek software Daniel X. Moore for an in-depth discussion on these topics and more.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/275371360-thenewstackatscale-show-11-agility-at-scale.mp3" length="25837926"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000173306612-4v3vvq-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/270544507</guid>
+      <title>Show 10: Mobile Application Monitoring</title>
+      <pubDate>Thu, 23 Jun 2016 20:05:03 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/the-new-stack-scale-podcast-1</link>
+      <itunes:duration>00:40:20</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this episode of The New Stack at Scale is all about application monitoring. The New Stack Founder Alex Williams sat down with Charity Majors, one of the original developers of the Parse mobile platform, a technology that was acquired by Facebook. They are joined by Tori Wieldt, a developer advocated for New Relic and with Fredric Paul, Editor-in-Chief at New Relic. </itunes:summary>
+      <itunes:subtitle>In this episode of The New Stack at Scale is all …</itunes:subtitle>
+      <description>In this episode of The New Stack at Scale is all about application monitoring. The New Stack Founder Alex Williams sat down with Charity Majors, one of the original developers of the Parse mobile platform, a technology that was acquired by Facebook. They are joined by Tori Wieldt, a developer advocated for New Relic and with Fredric Paul, Editor-in-Chief at New Relic. </description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/270544507-thenewstackatscale-the-new-stack-scale-podcast-1.mp3" length="29047852"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000168804044-gk7v12-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/265607844</guid>
+      <title>Show 9: Hybrid Architectures</title>
+      <pubDate>Tue, 24 May 2016 22:37:53 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/show-9-hybrid-architectures</link>
+      <itunes:duration>00:45:24</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this episode of The New Stack at Scale, The New Stack Founder Alex Williams sat down with Fredric Paul, Editor-in-Chief at New Relic, Lee Atchison, Principal Cloud Architect at New Relic and Kyle MacDonald, one of the original board members of OpenStack, who also served as Senior Vice President of Cloud at Canonical, to discuss the past, present, and future of cloud-based architecture.</itunes:summary>
+      <itunes:subtitle>In this episode of The New Stack at Scale, The Ne…</itunes:subtitle>
+      <description>In this episode of The New Stack at Scale, The New Stack Founder Alex Williams sat down with Fredric Paul, Editor-in-Chief at New Relic, Lee Atchison, Principal Cloud Architect at New Relic and Kyle MacDonald, one of the original board members of OpenStack, who also served as Senior Vice President of Cloud at Canonical, to discuss the past, present, and future of cloud-based architecture.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/265607844-thenewstackatscale-show-9-hybrid-architectures.mp3" length="32689740"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000164180157-754b4k-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/261499571</guid>
+      <title>Show 8:  Scaling Demands and Inevitable Failures Along the Way</title>
+      <pubDate>Fri, 29 Apr 2016 19:20:01 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/show-8-embracing-failure</link>
+      <itunes:duration>00:30:40</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>HotelTonight is a five year old company that began like a lot of technology startups. It was originally built on Rails and quickly built into a monolithic application. But it  didn’t take very long before the company was releasing new features and sitting them on top of its stack, supporting it all and the business as it grew organically. through that all, the business was scaling and the platform itself needed to keep pace.
+
+In this episode of The New Stack @ Scale, HotelTonight’s Jonathan Geggatt talked about what they’ve learned and the inevitable failures that occur when scaling.
+</itunes:summary>
+      <itunes:subtitle>HotelTonight is a five year old company that bega…</itunes:subtitle>
+      <description>HotelTonight is a five year old company that began like a lot of technology startups. It was originally built on Rails and quickly built into a monolithic application. But it  didn’t take very long before the company was releasing new features and sitting them on top of its stack, supporting it all and the business as it grew organically. through that all, the business was scaling and the platform itself needed to keep pace.
+
+In this episode of The New Stack @ Scale, HotelTonight’s Jonathan Geggatt talked about what they’ve learned and the inevitable failures that occur when scaling.
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/261499571-thenewstackatscale-show-8-embracing-failure.mp3" length="22081936"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000160417610-8ud3s1-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/255691213</guid>
+      <title>Show 7: ClusterHQ's Sandeepan Banerjee on the Culture of Scale</title>
+      <pubDate>Tue, 29 Mar 2016 02:17:13 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/show-7-the-culture-of-scale</link>
+      <itunes:duration>00:30:38</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Sandeepan Banerjee, who joined ClusterHQ in January as senior vice president of engineering and operations, talks about the challenges of scale-out computing, based on his time at Data Head at Google. </itunes:summary>
+      <itunes:subtitle>Sandeepan Banerjee, who joined ClusterHQ in Janua…</itunes:subtitle>
+      <description>Sandeepan Banerjee, who joined ClusterHQ in January as senior vice president of engineering and operations, talks about the challenges of scale-out computing, based on his time at Data Head at Google. </description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/255691213-thenewstackatscale-show-7-the-culture-of-scale.mp3" length="22057799"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000154714393-38yf5e-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/248499858</guid>
+      <title>Show 6: Platform Management at Scale</title>
+      <pubDate>Thu, 25 Feb 2016 17:09:31 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/show-6-managing-platforms-at-scale</link>
+      <itunes:duration>00:36:44</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Platform management is the focus of this sixth episode of The New Stack @ Scale, our monthly podcast, sponsored by New Relic, that examines the various issues accompanying dynamic services and systems.
+
+The New Stack’s Alex Williams, along with Fredric Paul, New Relic’s Editor-in-Chief, discussed DevOps and silos and APIs, and introducing containers into systems that are already complex, with Kelsey Hightower, Staff Developer Advocate, Google Cloud Platform.
+
+Providing some touchstones for this lively session was an illuminating segment produced by The New Stack correspondent Scott M. Fulton III, in which we heard from Avi Cavale of Shippable, Apecra founder and CEO Derek Collison, and Martin Croker, DevOps Capability Lead at Accenture.</itunes:summary>
+      <itunes:subtitle>Platform management is the focus of this sixth ep…</itunes:subtitle>
+      <description>Platform management is the focus of this sixth episode of The New Stack @ Scale, our monthly podcast, sponsored by New Relic, that examines the various issues accompanying dynamic services and systems.
+
+The New Stack’s Alex Williams, along with Fredric Paul, New Relic’s Editor-in-Chief, discussed DevOps and silos and APIs, and introducing containers into systems that are already complex, with Kelsey Hightower, Staff Developer Advocate, Google Cloud Platform.
+
+Providing some touchstones for this lively session was an illuminating segment produced by The New Stack correspondent Scott M. Fulton III, in which we heard from Avi Cavale of Shippable, Apecra founder and CEO Derek Collison, and Martin Croker, DevOps Capability Lead at Accenture.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/248499858-thenewstackatscale-show-6-managing-platforms-at-scale.mp3" length="70539288"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000148305240-3mw7mz-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/243583910</guid>
+      <title>Show 5: DevOps and Managing Scale</title>
+      <pubDate>Wed, 27 Jan 2016 16:42:34 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/show-5-devops-and-managing-scale</link>
+      <itunes:duration>00:39:36</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The fifth episode of The New Stack @ Scale podcast, our monthly program sponsored by New Relic that examines the various issues that accompany dynamic services and systems, explored a scaling success story that is a case study in DevOps challenges and perseverance.
+
+The New Stack founder Alex Williams and co-host Fredric Paul, New Relic’s Editor-in-Chief, were joined by Tung Nguyen, VP of Engineering at Bleacher Report. In this wide-ranging and informative discussion, you’ll hear Nguyen describe B/R’s incredible journey from outgrowing “awful” blog software running on a single VM, to becoming a leading sports-oriented digital property that brings in more than 80 million uniques per month.
+
+Also on hand was Lee Atchison, who provided perspective with his experiences in scaling at New Relic (as its Principal Cloud Architect and Advocate), as well as his time at AWS, where he created Elastic Beanstalk and led the team that managed the migration of Amazon’s retail platform from a monolith to a SOA-based architecture.</itunes:summary>
+      <itunes:subtitle>The fifth episode of The New Stack @ Scale podcas…</itunes:subtitle>
+      <description>The fifth episode of The New Stack @ Scale podcast, our monthly program sponsored by New Relic that examines the various issues that accompany dynamic services and systems, explored a scaling success story that is a case study in DevOps challenges and perseverance.
+
+The New Stack founder Alex Williams and co-host Fredric Paul, New Relic’s Editor-in-Chief, were joined by Tung Nguyen, VP of Engineering at Bleacher Report. In this wide-ranging and informative discussion, you’ll hear Nguyen describe B/R’s incredible journey from outgrowing “awful” blog software running on a single VM, to becoming a leading sports-oriented digital property that brings in more than 80 million uniques per month.
+
+Also on hand was Lee Atchison, who provided perspective with his experiences in scaling at New Relic (as its Principal Cloud Architect and Advocate), as well as his time at AWS, where he created Elastic Beanstalk and led the team that managed the migration of Amazon’s retail platform from a monolith to a SOA-based architecture.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/243583910-thenewstackatscale-show-5-devops-and-managing-scale.mp3" length="28513701"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000144418014-q7zs8v-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/237442637</guid>
+      <title>Show 4: Container Security</title>
+      <pubDate>Wed, 16 Dec 2015 15:37:34 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/show-4-container-security</link>
+      <itunes:duration>00:44:17</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this fourth episode of The New Stack @ Scale podcast, our monthly program sponsored by New Relic that explores the variety of issues that accompany dynamic services and systems, The New Stack founder Alex Williams and co-host Fredric Paul, New Relic’s Editor-in-Chief, were joined by two guests to discuss container security in the new frontier of scaled-out architectures.
+
+Jim Reno is the Chief Architect for Security at Apcera, and Armon Dadgar is the Co-Founder and CTO of HashiCorp; both bring an abundance of valuable experience to the discussion, and they offer practical insights that merit attention.</itunes:summary>
+      <itunes:subtitle>In this fourth episode of The New Stack @ Scale p…</itunes:subtitle>
+      <description>In this fourth episode of The New Stack @ Scale podcast, our monthly program sponsored by New Relic that explores the variety of issues that accompany dynamic services and systems, The New Stack founder Alex Williams and co-host Fredric Paul, New Relic’s Editor-in-Chief, were joined by two guests to discuss container security in the new frontier of scaled-out architectures.
+
+Jim Reno is the Chief Architect for Security at Apcera, and Armon Dadgar is the Co-Founder and CTO of HashiCorp; both bring an abundance of valuable experience to the discussion, and they offer practical insights that merit attention.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/237442637-thenewstackatscale-show-4-container-security.mp3" length="31885691"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000139481909-vpn1si-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234230932</guid>
+      <title>Show 3: Monitoring and Containers</title>
+      <pubDate>Mon, 23 Nov 2015 17:39:00 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/show-3-monitoring-and-containers</link>
+      <itunes:duration>00:33:36</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>We proudly present the third episode of The New Stack @ Scale podcast, our monthly program sponsored by New Relic that explores the issues that come with dynamic services and systems. In this edition, recorded during New Relic’s FutureStack15 User Conference, The New Stack founder Alex Williams was joined by co-anchor Fredric Paul, New Relic’s Editor-in-Chief. They were joined by three guests to discuss the issues around scale and monitoring, with a focus on Docker and containers:
+
+* Karl Matthias manages the Site Services team at New Relic in Portland, Oregon. He the maintainer of Centurion, New Relic’s container production environment, and is co-author of the O’Reilly book “Docker: Up &amp; Running.”
+* Tim Gross is a product manager for Joyent, providers of the Triton Elastic Container Service. Not long ago, Tim ran Ops at DramaFever (see Episode 50 of The New Stack Analysts podcast) and, in a previous life, Tim was an architect (buildings, not software).
+* Scott M. Fulton III covers Internet-scale software and services development for The New Stack.</itunes:summary>
+      <itunes:subtitle>We proudly present the third episode of The New S…</itunes:subtitle>
+      <description>We proudly present the third episode of The New Stack @ Scale podcast, our monthly program sponsored by New Relic that explores the issues that come with dynamic services and systems. In this edition, recorded during New Relic’s FutureStack15 User Conference, The New Stack founder Alex Williams was joined by co-anchor Fredric Paul, New Relic’s Editor-in-Chief. They were joined by three guests to discuss the issues around scale and monitoring, with a focus on Docker and containers:
+
+* Karl Matthias manages the Site Services team at New Relic in Portland, Oregon. He the maintainer of Centurion, New Relic’s container production environment, and is co-author of the O’Reilly book “Docker: Up &amp; Running.”
+* Tim Gross is a product manager for Joyent, providers of the Triton Elastic Container Service. Not long ago, Tim ran Ops at DramaFever (see Episode 50 of The New Stack Analysts podcast) and, in a previous life, Tim was an architect (buildings, not software).
+* Scott M. Fulton III covers Internet-scale software and services development for The New Stack.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/234230932-thenewstackatscale-show-3-monitoring-and-containers.mp3" length="32258406"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000137009755-ewwta5-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/228328475</guid>
+      <title>Show 2: Managing Complexity</title>
+      <pubDate>Wed, 14 Oct 2015 07:31:11 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/show-2-managing-complexity</link>
+      <itunes:duration>00:39:07</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The New Stack @ Scale explores cloud-native architectures, boldly discusses complexity in distributed, scaled-out environments, and ventures deep into monitoring, analytics and open source, all beckoning toward a future of transparency between platforms and the infrastructure itself.
+
+Our mission with The New Stack @ Scale is to address topics of interest to developers, operations managers and business leaders alike, to hear from the industry’s best and most enlightening minds, and to lace these discussions with a variety of featured segments, to create an informative, ambitious show that stands apart from the typical one-mic podcast. The show is co-hosted by The New Stack founder Alex Williams, and New Relic Editor-in-Chief Fredric Paul, a long-time journalist himself.
+
+This second episode, recorded at AWS re:Invent, features two guests who bring a wealth of insight to the conversation:
+
+Dave McRory, CTO of Basho Technologies. Previously, Dave served as SVP of Engineering at Warner Music Group, as well as Senior Architect, Cloud Foundry at VMware, and as a Cloud Solutions Architect at Dell. He is also an inventor, an author, and a founder/CTO of several companies in the virtualization, systems management, and cloud computing spaces.
+
+James Governor, Co-founder of RedMonk, an independent IT research and advisory firm committed to an integrated view of information technologies and enterprise requirements. James is also founder of Shoreditch Works, a coworking space in London with a developer-centric focus.
+
+Later in the show, we hear from CEO John Sheehan about the infrastructure of Runscope, and also Loris Degioanni, founder of sysdig, who speaks to the complexities of the new stack. 
+
+Also, make sure to keep your earbuds in for the bonus section at the end of the podcast. You’ll be treated to a wildly entertaining deconstruction of “Battlestar Galactica” as an allegory about microservices, along with an equally valid analysis using “Star Wars,” the premiere of the soon-to-be-iconic “Parable of The Prize Bull,” and much more.</itunes:summary>
+      <itunes:subtitle>The New Stack @ Scale explores cloud-native archi…</itunes:subtitle>
+      <description>The New Stack @ Scale explores cloud-native architectures, boldly discusses complexity in distributed, scaled-out environments, and ventures deep into monitoring, analytics and open source, all beckoning toward a future of transparency between platforms and the infrastructure itself.
+
+Our mission with The New Stack @ Scale is to address topics of interest to developers, operations managers and business leaders alike, to hear from the industry’s best and most enlightening minds, and to lace these discussions with a variety of featured segments, to create an informative, ambitious show that stands apart from the typical one-mic podcast. The show is co-hosted by The New Stack founder Alex Williams, and New Relic Editor-in-Chief Fredric Paul, a long-time journalist himself.
+
+This second episode, recorded at AWS re:Invent, features two guests who bring a wealth of insight to the conversation:
+
+Dave McRory, CTO of Basho Technologies. Previously, Dave served as SVP of Engineering at Warner Music Group, as well as Senior Architect, Cloud Foundry at VMware, and as a Cloud Solutions Architect at Dell. He is also an inventor, an author, and a founder/CTO of several companies in the virtualization, systems management, and cloud computing spaces.
+
+James Governor, Co-founder of RedMonk, an independent IT research and advisory firm committed to an integrated view of information technologies and enterprise requirements. James is also founder of Shoreditch Works, a coworking space in London with a developer-centric focus.
+
+Later in the show, we hear from CEO John Sheehan about the infrastructure of Runscope, and also Loris Degioanni, founder of sysdig, who speaks to the complexities of the new stack. 
+
+Also, make sure to keep your earbuds in for the bonus section at the end of the podcast. You’ll be treated to a wildly entertaining deconstruction of “Battlestar Galactica” as an allegory about microservices, along with an equally valid analysis using “Star Wars,” the premiere of the soon-to-be-iconic “Parable of The Prize Bull,” and much more.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/228328475-thenewstackatscale-show-2-managing-complexity.mp3" length="75111761"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000132670118-akezks-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/222274081</guid>
+      <title>Show 1: Cloud-Native Architecture</title>
+      <pubDate>Wed, 09 Sep 2015 16:03:30 +0000</pubDate>
+      <link>https://soundcloud.com/thenewstackatscale/the-new-stack-scale-podcast</link>
+      <itunes:duration>00:38:34</itunes:duration>
+      <itunes:author>The New Stack</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In this first episode of the show we discuss cloud-native architecture, what it means, the historical context, and how it impacts application development as traditional infrastructure becomes increasingly abstracted to the user, but far deeper in complexity for the operator.
+</itunes:summary>
+      <itunes:subtitle>In this first episode of the show we discuss clou…</itunes:subtitle>
+      <description>In this first episode of the show we discuss cloud-native architecture, what it means, the historical context, and how it impacts application development as traditional infrastructure becomes increasingly abstracted to the user, but far deeper in complexity for the operator.
+</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/222274081-thenewstackatscale-the-new-stack-scale-podcast.mp3" length="37026066"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-000128449133-o50mdr-t3000x3000.jpg"/>
+    </item>
+      </channel>
+    </rss>

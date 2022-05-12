@@ -1,0 +1,29 @@
+{
+  "name": "powerplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "yarn workspaces foreach -Avpi -j unlimited run dev",
+    "debug:server": "yarn loglevel DEBUG --stream start",
+    "lint": "yarn workspaces foreach run lint",
+    "test": "yarn workspaces foreach run test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.18",
+    "typescript": "^4.5.5"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "craco": "^0.0.3",
+    "next": "^12.1.4",
+    "normalize.css": "^8.0.1"
+  },
+  "packageManager": "yarn@3.2.0"
+}

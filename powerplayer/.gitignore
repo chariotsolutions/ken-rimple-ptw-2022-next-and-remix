@@ -1,0 +1,14 @@
+node_modules/
+lerna-debug.log
+npm-debug.log
+packages/*/lib
+.DS_Store
+.idea
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+

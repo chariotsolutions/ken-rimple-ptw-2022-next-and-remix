@@ -1,0 +1,56 @@
+.card {
+    position: relative;
+    flex-basis: auto;
+    min-width: 300px;
+    width: 300px;
+    height: 300px;
+    border:1px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1.1em;
+    vertical-align: middle;
+    height: 3.5em;
+    text-align: center;
+    text-transform: uppercase;
+    overflow: hidden;
+}
+
+hr.separator {
+    border: 1px solid black;
+}
+
+.description {
+    font-weight: normal;
+    font-size: .8em;
+    padding-bottom: 1em;
+}
+
+.skeletonCard {
+    flex-basis: auto;
+    min-width: 300px;
+    width: 300px;
+    height: 300px;
+    border:1px solid red;
+    padding: 5px;
+    margin: 2px;
+    animation: skeletonCard 0.5s infinite;
+}
+
+@keyframes skeletonCard {
+    0% {
+        opacity: 100%;
+    }
+
+    50% {
+        opacity: 40%;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+}

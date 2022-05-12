@@ -1,0 +1,10 @@
+.container {
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1.title {
+    font-size: 2em;
+    text-align: center;
+}

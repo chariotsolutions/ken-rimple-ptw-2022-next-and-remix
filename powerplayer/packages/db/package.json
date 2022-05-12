@@ -1,0 +1,13 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bash -c \"docker-compose up -d\"",
+    "db": "bash -c \"docker-compose up -d\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

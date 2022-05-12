@@ -1,0 +1,29 @@
+[data-card] {
+    position: relative;
+    flex-basis: auto;
+    min-width: 300px;
+    width: 300px;
+    height: 300px;
+    border:1px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    overflow: clip;
+    background-color: lightyellow;
+}
+
+[data-title] {
+    font-weight: bold;
+    font-size: 1.1em;
+    vertical-align: middle;
+    height: 2.5em;
+    max-height: 3.5em;
+    text-align: center;
+    text-transform: uppercase;
+    overflow: auto;
+    color: black;
+}
+
+[data-separator] {
+    border: 1px solid black;
+}

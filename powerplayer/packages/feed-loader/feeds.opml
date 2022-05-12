@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head><title>macOS Podcast exporter</title><dateCreated>3/24/2022, 2:08:12 PM</dateCreated></head>
+<body>
+<outline type="rss" text="AWS Podcast" xmlUrl="https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss" />
+<outline type="rss" text="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" />
+<outline type="rss" text="Do By Friday" xmlUrl="https://rss.simplecast.com/podcasts/2389/rss" />
+<outline type="rss" text="AWS Morning Brief" xmlUrl="https://feeds.transistor.fm/aws-morning-brief" />
+<outline type="rss" text="Podcast – Cory Doctorow's craphound.com" xmlUrl="http://feeds.feedburner.com/doctorow_podcast" />
+<outline type="rss" text="Chariot TechCast" xmlUrl="https://chariotsolutions.com/podcasts/show/techcast/feed/" />
+</opml>

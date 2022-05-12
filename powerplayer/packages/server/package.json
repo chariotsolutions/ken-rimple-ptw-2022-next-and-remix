@@ -1,0 +1,36 @@
+{
+  "name": "@powerplayer/server",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Ken Rimple <krimple@chariotsolutions.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "src/server.ts",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "EXPRESS_PORT=3010 ts-node src/server.ts",
+    "start": "yarn dev",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "find-cache-dir": "^3.3.2",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3",
+    "rss-parser": "^3.12.0",
+    "ts-node": "^10.5.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
